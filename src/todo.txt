@@ -1,0 +1,5 @@
+- add the header component to the scene
+- animate my name at the background of the element using framer motion, blur the name on the background
+- put a link to my portfolio at the page bottom
+- commit all the changes made
+- merge the feature branch into the main branch
